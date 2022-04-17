@@ -1,0 +1,22 @@
+fx=0;fy=0;
+with(argument0){
+while(place_meeting(x-other.fx*sign(cos(degtorad(point_direction(other.x,other.y,x,y)))),y,other.bsten)=1)
+{
+other.fx++
+}
+while(place_meeting(x,y+other.fy*sign(sin(degtorad(point_direction(other.x,other.y,x,y)))),other.bsten)=1)
+{
+other.fy++
+}}
+if fx<fy{
+fx=-fx*sign(cos(degtorad(point_direction(x,y,argument0.x,argument0.y))))
+x+=fx;
+for(i=1;i<=kbone;i++){
+bone[i].x+=fx
+}}
+else{
+fy=fy*sign(sin(degtorad(point_direction(x,y,argument0.x,argument0.y))))
+y+=fy;
+for(i=1;i<=kbone;i++){
+bone[i].y+=fy
+}}

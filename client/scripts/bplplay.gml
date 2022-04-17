@@ -1,0 +1,11 @@
+l=instance_create(argument0,argument1,block);
+l.sprite_index=mgn(argument2)
+l1=instance_position(argument0-50,argument1,block);
+l2=instance_position(argument0+50,argument1,block);
+l3=instance_position(argument0,argument1+50,block);
+l4=instance_position(argument0,argument1-50,block);
+prpust(l1)
+prpust(l2)
+prpust(l3)
+prpust(l4)
+prpust(l)

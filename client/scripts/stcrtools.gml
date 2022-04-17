@@ -1,0 +1,9 @@
+p=argument0;
+scr(wood_axe+z,p,p,0,stic,p,0,stic,0,0)
+scr(wood_axe+z,p,p,0,p,stic,0,0,stic,0)
+scr(wood_sword+z,p,0,0,p,0,0,stic,0,0)
+scr(wood_hoe+z,p,p,0,stic,0,0,stic,0,0)
+scr(wood_hoe+z,p,p,0,0,stic,0,0,stic,0)
+scr(wood_shovel+z,p,0,0,stic,0,0,stic,0,0)
+scr(wood_pick+z,p,p,p,0,stic,0,0,stic,0)
+z++

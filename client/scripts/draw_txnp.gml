@@ -1,0 +1,5 @@
+draw_set_halign(fa_right)
+draw_set_valign(fa_bottom)
+draw_text(argument0*global.kw/10,argument1*global.kh/10,argument2)
+draw_set_valign(fa_top)
+draw_set_halign(fa_left)
