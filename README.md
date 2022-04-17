@@ -84,7 +84,6 @@ a room where you can choose and improve your character for money and extra skins
 this room have a lot of features. 
 You can launch some commands when you write it on the search bar and then click on the search.
 you can also earn money by spelling out the word captcha
-![image](https://user-images.githubusercontent.com/37046811/163727692-7ba6cc55-8755-46ca-86ca-b29896470116.png)
 ![image](https://user-images.githubusercontent.com/37046811/163727842-0cb29bc2-dcc5-4ae2-9b47-c28549d3e351.png)
 ![image](https://user-images.githubusercontent.com/37046811/163727829-20c789c8-b7cb-46cb-8425-a186595bdb86.png)
 ## calculator
