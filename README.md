@@ -90,21 +90,22 @@ you can also earn money by spelling out the word captcha
 ## calculator
 ![image](https://user-images.githubusercontent.com/37046811/163728001-74fc40d3-5054-4b5d-9966-d96d3bf8c370.png)
 # ROADMAP
-[ ] rewrite to unity, gobbot, cocos2d, pixi.js or on another engine
-[ ] remove the clicker
-[ ] remove the maze
-[ ] bring to mind the fruits
-[ ] remove the fnaf
-[ ] bring to mind the diepio
-[ ] bring to mind the sapper
-[ ] remove the shooter
-[ ] remove the scyscaper
-[ ] bring to mind the galactic
-[ ] bring to mind the warmix
-[ ] bring to mind the shit factory
-[ ] bring to mind the farm franzy
-[ ] add new heroes
-[ ] solve the issue with the display of text
+- [ ] rewrite to unity, gobbot, cocos2d, pixi.js or on another engine
+- [ ] remove the clicker
+- [ ] remove the maze
+- [ ] bring to mind the fruits
+- [ ] remove the fnaf
+- [ ] bring to mind the diepio
+- [ ] bring to mind the sapper
+- [ ] remove the shooter
+- [ ] remove the scyscaper
+- [ ] bring to mind the galactic
+- [ ] bring to mind the warmix
+- [ ] bring to mind the shit factory
+- [ ] bring to mind the farm franzy
+- [ ] add new heroes
+- [ ] solve the issue with the display of text
+
 # link to download
 [download for windows](https://disk.yandex.ru/d/xUDyyww63Q4K9f)
 
